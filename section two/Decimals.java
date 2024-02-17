@@ -1,3 +1,5 @@
+
+
 public class Decimals {
     public static void main(String[] args) {
         double percentage = 73.5;
@@ -7,5 +9,6 @@ public class Decimals {
         double wallet = 20.000000;
         int people = 3;
         System.out.println(wallet / people);
+        System.out.println(20 / 3);
     }
 }
